@@ -1,0 +1,57 @@
+
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Basic Template</title>
+
+  <link rel="stylesheet" href="/assets/css/fonts.css">
+  <link rel="stylesheet" href="/assets/css/screen.css">
+
+  <script type="module" src="assets/js/main.js"></script>
+
+
+</head>
+
+
+<body>
+
+  <div class="header-wrapper">
+  <h1>Photo Exhibition</h1>
+  
+  <div class="search-container">
+    <input type="text" id="searchInput" placeholder="Search by author name..." />
+    <button id="searchBtn">SEARCH</button>
+  </div>
+</div>
+
+<div id="imageModal" class="modal">
+  <span class="modal-close">&times;</span>
+  <img class="modal-content" id="modalImg">
+  <div id="modalCaption"></div>
+  
+  <button class="modal-share" id="modalShareBtn">SHARE</button>
+</div>
+<script src="main.js" defer></script>
+
+  <div class="gallery-wrapper">
+    <button class="nav-btn prev-btn" id="prevBtn" aria-label="Previous">&#10094;</button>
+    
+    <div class="katalog-slider-container">
+      <div class="katalog-grid" id="katalog"></div>
+    </div>
+
+    <button class="nav-btn next-btn" id="nextBtn" aria-label="Next">&#10095;</button>
+  </div>
+
+  <div id="imageModal" class="modal">
+    <span class="modal-close">&times;</span>
+    <img class="modal-content" id="modalImg">
+    <div id="modalCaption"></div>
+  </div>
+
+<button id="resetBtn" class="reset-btn">↺ FIRST</button>
+
+
+</body>
