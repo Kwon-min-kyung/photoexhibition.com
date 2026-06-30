@@ -1,0 +1,590 @@
+[
+  {
+    "Titel": 1,
+    "Author": "Chiara",
+    "Path-extension": "assets/img/",
+    "filename": "Chiara1.JPG",
+    "@image": "assets/img/Chiara1.JPG"
+  },
+  {
+    "Titel": 2,
+    "Author": "Chiara",
+    "Path-extension": "assets/img/",
+    "filename": "Chiara2.JPG",
+    "@image": "assets/img/Chiara2.JPG"
+  },
+  {
+    "Titel": 3,
+    "Author": "Chiara",
+    "Path-extension": "assets/img/",
+    "filename": "Chiara3.JPG",
+    "@image": "assets/img/Chiara3.JPG"
+  },
+  {
+    "Titel": 4,
+    "Author": "Chiara",
+    "Path-extension": "assets/img/",
+    "filename": "Chiara4.JPG",
+    "@image": "assets/img/Chiara4.JPG"
+  },
+  {
+    "Titel": 5,
+    "Author": "Chiara",
+    "Path-extension": "assets/img/",
+    "filename": "Chiara5.JPG",
+    "@image": "assets/img/Chiara5.JPG"
+  },
+  {
+    "Titel": 6,
+    "Author": "Chiara",
+    "Path-extension": "assets/img/",
+    "filename": "Chiara6.JPG",
+    "@image": "assets/img/Chiara6.JPG"
+  },
+  {
+    "Titel": 7,
+    "Author": "Chiara",
+    "Path-extension": "assets/img/",
+    "filename": "Chiara7.JPG",
+    "@image": "assets/img/Chiara7.JPG"
+  },
+  {
+    "Titel": 8,
+    "Author": "Chiara",
+    "Path-extension": "assets/img/",
+    "filename": "Chiara8.JPG",
+    "@image": "assets/img/Chiara8.JPG"
+  },
+  {
+    "Titel": 9,
+    "Author": "Chiara",
+    "Path-extension": "assets/img/",
+    "filename": "Chiara9.JPG",
+    "@image": "assets/img/Chiara9.JPG"
+  },
+  {
+    "Titel": 10,
+    "Author": "Chiara",
+    "Path-extension": "assets/img/",
+    "filename": "Chiara10.JPG",
+    "@image": "assets/img/Chiara10.JPG"
+  },
+  {
+    "Titel": 11,
+    "Author": "Chiara",
+    "Path-extension": "assets/img/",
+    "filename": "Chiara11.JPG",
+    "@image": "assets/img/Chiara11.JPG"
+  },
+  {
+    "Titel": 12,
+    "Author": "Hazel",
+    "Path-extension": "assets/img/",
+    "filename": "hazal1.JPG",
+    "@image": "assets/img/hazal1.JPG"
+  },
+  {
+    "Titel": 13,
+    "Author": "Hazel",
+    "Path-extension": "assets/img/",
+    "filename": "hazal2.JPG",
+    "@image": "assets/img/hazal2.JPG"
+  },
+  {
+    "Titel": 14,
+    "Author": "Hazel",
+    "Path-extension": "assets/img/",
+    "filename": "hazal3.JPG",
+    "@image": "assets/img/hazal3.JPG"
+  },
+  {
+    "Titel": 15,
+    "Author": "Hazel",
+    "Path-extension": "assets/img/",
+    "filename": "hazal4.JPG",
+    "@image": "assets/img/hazal4.JPG"
+  },
+  {
+    "Titel": 16,
+    "Author": "Hazel",
+    "Path-extension": "assets/img/",
+    "filename": "hazal5.JPG",
+    "@image": "assets/img/hazal5.JPG"
+  },
+  {
+    "Titel": 17,
+    "Author": "Hazel",
+    "Path-extension": "assets/img/",
+    "filename": "hazal6.JPG",
+    "@image": "assets/img/hazal6.JPG"
+  },
+  {
+    "Titel": 18,
+    "Author": "Hazel",
+    "Path-extension": "assets/img/",
+    "filename": "hazal7.JPG",
+    "@image": "assets/img/hazal7.JPG"
+  },
+  {
+    "Titel": 19,
+    "Author": "Hazel",
+    "Path-extension": "assets/img/",
+    "filename": "hazal8.JPG",
+    "@image": "assets/img/hazal8.JPG"
+  },
+  {
+    "Titel": 20,
+    "Author": "Hazel",
+    "Path-extension": "assets/img/",
+    "filename": "hazal9.JPG",
+    "@image": "assets/img/hazal9.JPG"
+  },
+  {
+    "Titel": 21,
+    "Author": "Together",
+    "Path-extension": "assets/img/",
+    "filename": "hc1.JPG",
+    "@image": "assets/img/hc1.JPG"
+  },
+  {
+    "Titel": 22,
+    "Author": "Together",
+    "Path-extension": "assets/img/",
+    "filename": "hc2.JPG",
+    "@image": "assets/img/hc2.JPG"
+  },
+  {
+    "Titel": 23,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "1.JPG",
+    "@image": "assets/img/1.JPG"
+  },
+  {
+    "Titel": 24,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "2.JPG",
+    "@image": "assets/img/2.JPG"
+  },
+  {
+    "Titel": 25,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "3.JPG",
+    "@image": "assets/img/3.JPG"
+  },
+  {
+    "Titel": 26,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "4.JPG",
+    "@image": "assets/img/4.JPG"
+  },
+  {
+    "Titel": 27,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "5.JPG",
+    "@image": "assets/img/5.JPG"
+  },
+  {
+    "Titel": 28,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "6.JPG",
+    "@image": "assets/img/6.JPG"
+  },
+  {
+    "Titel": 29,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "7.JPG",
+    "@image": "assets/img/7.JPG"
+  },
+  {
+    "Titel": 30,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "8.JPG",
+    "@image": "assets/img/8.JPG"
+  },
+  {
+    "Titel": 31,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "9.JPG",
+    "@image": "assets/img/9.JPG"
+  },
+  {
+    "Titel": 32,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "10.JPG",
+    "@image": "assets/img/10.JPG"
+  },
+  {
+    "Titel": 33,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "11.jpg",
+    "@image": "assets/img/11.jpg"
+  },
+  {
+    "Titel": 34,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "12.JPG",
+    "@image": "assets/img/12.JPG"
+  },
+  {
+    "Titel": 35,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "13.JPG",
+    "@image": "assets/img/13.JPG"
+  },
+  {
+    "Titel": 36,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "14.JPG",
+    "@image": "assets/img/14.JPG"
+  },
+  {
+    "Titel": 37,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "15.JPG",
+    "@image": "assets/img/15.JPG"
+  },
+  {
+    "Titel": 38,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "16.JPG",
+    "@image": "assets/img/16.JPG"
+  },
+  {
+    "Titel": 39,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "17.JPG",
+    "@image": "assets/img/17.JPG"
+  },
+  {
+    "Titel": 40,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "18.JPG",
+    "@image": "assets/img/18.JPG"
+  },
+  {
+    "Titel": 41,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "19.JPG",
+    "@image": "assets/img/19.JPG"
+  },
+  {
+    "Titel": 42,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "20.JPG",
+    "@image": "assets/img/20.JPG"
+  },
+  {
+    "Titel": 43,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "21.JPG",
+    "@image": "assets/img/21.JPG"
+  },
+  {
+    "Titel": 44,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "22.JPG",
+    "@image": "assets/img/22.JPG"
+  },
+  {
+    "Titel": 45,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "23.JPG",
+    "@image": "assets/img/23.JPG"
+  },
+  {
+    "Titel": 46,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "24.JPG",
+    "@image": "assets/img/24.JPG"
+  },
+  {
+    "Titel": 47,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "25.JPG",
+    "@image": "assets/img/25.JPG"
+  },
+  {
+    "Titel": 48,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "26.JPG",
+    "@image": "assets/img/26.JPG"
+  },
+  {
+    "Titel": 49,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "27.JPG",
+    "@image": "assets/img/27.JPG"
+  },
+  {
+    "Titel": 50,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "28.JPG",
+    "@image": "assets/img/28.JPG"
+  },
+  {
+    "Titel": 51,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "29.JPG",
+    "@image": "assets/img/29.JPG"
+  },
+  {
+    "Titel": 52,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "30.JPG",
+    "@image": "assets/img/30.JPG"
+  },
+  {
+    "Titel": 53,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "33.JPG",
+    "@image": "assets/img/33.JPG"
+  },
+  {
+    "Titel": 54,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "34.JPG",
+    "@image": "assets/img/34.JPG"
+  },
+  {
+    "Titel": 55,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "35.JPG",
+    "@image": "assets/img/35.JPG"
+  },
+  {
+    "Titel": 56,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "36.JPG",
+    "@image": "assets/img/36.JPG"
+  },
+  {
+    "Titel": 57,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "37.jpg",
+    "@image": "assets/img/37.jpg"
+  },
+  {
+    "Titel": 58,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "38.JPG",
+    "@image": "assets/img/38.JPG"
+  },
+  {
+    "Titel": 59,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "39.JPG",
+    "@image": "assets/img/39.JPG"
+  },
+  {
+    "Titel": 60,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "40.JPG",
+    "@image": "assets/img/40.JPG"
+  },
+  {
+    "Titel": 61,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "41.JPG",
+    "@image": "assets/img/41.JPG"
+  },
+  {
+    "Titel": 62,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "42.JPG",
+    "@image": "assets/img/42.JPG"
+  },
+  {
+    "Titel": 63,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "43.JPG",
+    "@image": "assets/img/43.JPG"
+  },
+  {
+    "Titel": 64,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "44.JPG",
+    "@image": "assets/img/44.JPG"
+  },
+  {
+    "Titel": 65,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "45.JPG",
+    "@image": "assets/img/45.JPG"
+  },
+  {
+    "Titel": 66,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "46.JPG",
+    "@image": "assets/img/46.JPG"
+  },
+  {
+    "Titel": 67,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "47.JPG",
+    "@image": "assets/img/47.JPG"
+  },
+  {
+    "Titel": 68,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "48.JPG",
+    "@image": "assets/img/48.JPG"
+  },
+  {
+    "Titel": 69,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "49.JPG",
+    "@image": "assets/img/49.JPG"
+  },
+  {
+    "Titel": 70,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "50.JPG",
+    "@image": "assets/img/50.JPG"
+  },
+  {
+    "Titel": 71,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "51.JPG",
+    "@image": "assets/img/51.JPG"
+  },
+  {
+    "Titel": 72,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "52.JPG",
+    "@image": "assets/img/52.JPG"
+  },
+  {
+    "Titel": 73,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "53.JPG",
+    "@image": "assets/img/53.JPG"
+  },
+  {
+    "Titel": 74,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "54.JPG",
+    "@image": "assets/img/54.JPG"
+  },
+  {
+    "Titel": 75,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "55.JPG",
+    "@image": "assets/img/55.JPG"
+  },
+  {
+    "Titel": 76,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "56.JPG",
+    "@image": "assets/img/56.JPG"
+  },
+  {
+    "Titel": 77,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "57.JPG",
+    "@image": "assets/img/57.JPG"
+  },
+  {
+    "Titel": 78,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "58.JPG",
+    "@image": "assets/img/58.JPG"
+  },
+  {
+    "Titel": 79,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "59.JPG",
+    "@image": "assets/img/59.JPG"
+  },
+  {
+    "Titel": 80,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "60.JPG",
+    "@image": "assets/img/60.JPG"
+  },
+  {
+    "Titel": 81,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "61.JPG",
+    "@image": "assets/img/61.JPG"
+  },
+  {
+    "Titel": 82,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "62.JPG",
+    "@image": "assets/img/62.JPG"
+  },
+  {
+    "Titel": 83,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "63.JPG",
+    "@image": "assets/img/63.JPG"
+  },
+  {
+    "Titel": 84,
+    "Author": "Yoobin Choi",
+    "Path-extension": "assets/img/",
+    "filename": "64.JPG",
+    "@image": "assets/img/64.JPG"
+  }
+]
